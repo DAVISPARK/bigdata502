@@ -1,0 +1,4 @@
+gibhub에 파일 업도르 하는 법
+1. git pull origin master (내려받고)
+
+2.git push origin master (올리면) 병합된다.
